@@ -2,6 +2,7 @@
 
 **ReDrift** is an immersive 3D abstract visual experience that simulates a glowing forward motion through dynamic space. Built using **Three.js**, it blends smooth animation, lighting effects, and minimal design to create a futuristic visual environment right within your browser.
 
+![ReDriftDemo](https://github.com/KrishBharadwaj5678/ReDrift/raw/main/ReDriftDemo.png)
 
 ## ✨ Features
 
