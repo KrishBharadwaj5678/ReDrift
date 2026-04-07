@@ -36,7 +36,7 @@ To run ReDrift locally, follow these steps:
 
     ```bash
     git clone https://github.com/KrishBharadwaj5678/ReDrift.git
-    cd REDRIFT
+    cd ReDrift
     ```
 
 2. Navigate to the project directory:
